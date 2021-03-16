@@ -1,0 +1,16 @@
+24
+14
+flag;is;win;;;;;;;;;;;;;;;;;;;;;;
+baba;is;you;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;SKULL;SKULL;SKULL;SKULL;SKULL;SKULL;SKULL;SKULL;SKULL;;;
+;;;;;;;;;;;;;SKULL;;;;;;;;SKULL;;;
+;;rock;is;push;;;;;;;;;SKULL;;skull;;;;;;SKULL;;;
+;;;;;;;;;;;;;SKULL;;is;;;;;;SKULL;;;
+;;;;;SKULL;;SKULL;;;;;;SKULL;;defeat;;;;;;SKULL;;;
+;;;;;SKULL;ROCK;SKULL;;;;;;SKULL;;;;;;;;SKULL;;;
+;;;SKULL;SKULL;SKULL;ROCK;SKULL;SKULL;SKULL;;;;SKULL;;;;;FLAG;;;SKULL;;;
+;;;SKULL;;;ROCK;;;SKULL;;;;SKULL;;;;;;;;SKULL;;;
+;;;SKULL;;;;;;SKULL;;;;SKULL;SKULL;SKULL;SKULL;SKULL;SKULL;SKULL;SKULL;SKULL;;;
+;;;SKULL;;;BABA;;;SKULL;;;;;;;;;;;;;;;
+;;;SKULL;;;;;;SKULL;;;;;;;;;;;;;;;
